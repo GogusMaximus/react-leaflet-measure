@@ -61,7 +61,7 @@
 		"webpack-dev-server": "^3.1.14"
 	},
 	"dependencies": {
-		"leaflet-measure": "^3.1.0"
+		"leaflet-measure": "github:GogusMaximus/leaflet-measure"
 	},
 	"jest": {
 		"collectCoverage": true,
